@@ -31,6 +31,4 @@ SmartHire Mini is a simple job portal application built using HTML, CSS, and Jav
 - Resume Upload
 - Search and Filter Jobs
 
-## Author
 
-Vedanti Pallawe
